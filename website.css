@@ -1,0 +1,373 @@
+.container-fluid i{
+    color: green;
+   
+}
+.solid{
+    gap: 300px;
+}
+.dd:hover{
+    color: green !important;
+    
+}
+
+.fn{
+    font-size: 25px;
+}
+.btn1{
+      border-radius: 40px !important;
+      height: 40px;
+      font-size: 20px !important;
+      color: white !important;
+      background-color: green !important;
+      margin-top: 7px;
+}
+.btn:hover{
+     background-color: black !important;
+}
+.st{
+    font-size: 50px !important;
+    color: green !important;
+}
+
+.ad:hover{
+       background-color: green !important;
+}
+.my:hover{
+    background-color: green !important;
+}
+
+.we h3{
+    color: green;
+}
+
+.we h1{
+   
+    font-size: 30px !important;
+}
+
+.btn1{
+    color: green !important;
+    background-color: white !important;
+   border: 2px solid transparent !important;
+}
+
+.btn1:hover{
+    color: white !important;
+    background-color: green !important;
+}
+
+.btn2{
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 25px;
+    width: 160px;
+    height: 40px;
+    border: 2px solid transparent;
+    
+}
+
+.btn2:hover{
+    background-color: black;
+}
+
+.h444 h4{
+    font-size: 30px !important;
+     display: flex;
+     justify-content: center;
+     flex-direction: row;
+     gap: 15px;
+}
+
+.h444{
+     
+     margin-top: 30px;
+}
+.h444 i{
+    height: 50px;
+    width: 50px;
+      text-align: center;
+     align-items: center;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     border-radius: 30px;
+}
+.icn1{
+    font-size: 20px;
+ background-color: white ;
+    color: green ;
+ 
+    text-align: center;
+     align-items: center;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+}
+.carousel-caption.we {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: white; /* Optional: white text over image */
+  z-index: 10;
+}
+.icn1:hover{
+    color: white;
+    background-color: green;
+}
+
+.btn3 i{
+    font-size: 20px;
+   
+  
+}
+
+.btn3{
+    border: 2px solid transparent;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+}
+.btn3:hover{
+    background-color: lightgreen;
+    color: green;
+}
+.btn4 i{
+    font-size: 20px;
+   
+  
+}
+.btn4{
+    border: 2px solid transparent;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+   
+}
+.btn4:hover{
+    background-color: lightgreen;
+    color: green;
+}
+
+.pp{
+    display: flex !important;
+    flex-direction: row !important;
+     justify-content: start !important;
+    padding-right: 300px !important;
+    gap: 20px;
+
+}
+
+.ww h3{
+    color: green;
+}
+.ww h1{
+    font-size: 30px;
+    
+}
+.carousel-caption.ww {
+  right: 5%; /* move closer to the right */
+  left: auto; /* remove default left */
+  text-align: left; /* or right/center based on preference */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40%; /* adjust width as needed */
+  
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+@media (max-width: 768px) {
+  .carousel-caption.ww {
+    width: 90%;
+    right: 5%;
+    left: 5%;
+    text-align: center;
+  }
+}
+.btn5{
+    color: green !important;
+    background-color: white !important;
+   border: 2px solid transparent !important;
+   border-radius: 30px !important;
+    width: 160px;
+    height: 40px;
+  
+}
+
+.btn5:hover{
+    color: white !important;
+    background-color: green !important;
+}
+
+.btn6{
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 25px;
+    width: 160px;
+    height: 40px;
+    border: 2px solid transparent;
+    
+}
+
+.btn6:hover{
+    background-color: black;
+}
+.h55 h4{
+    font-size: 30px !important;
+     display: flex;
+     justify-content: center;
+     flex-direction: row;
+     gap: 15px;
+}
+
+.h55{
+     
+     margin-top: 30px;
+}
+.h55 i{
+    height: 50px;
+    width: 50px;
+    
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     border-radius: 30px;
+}
+.col2 h3{
+    color: green;
+}
+.col2 h1{
+    font-size: 50px;
+}
+
+.col2{
+    margin-top: 180px;
+    padding-left: 150px;
+}
+.bb{
+    border: 2px solid transparent;
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+   
+}
+.bb:hover{
+    color: green;
+    background-color: black;
+}
+
+.dv i{
+    font-size: 40px;
+   color: green;
+
+}
+.col3{
+    display: flex;
+gap: 50px;
+    flex-direction: row;
+    padding-left: 150px;
+   margin-top: 30px;
+
+}
+
+.dv{
+    gap: 20px;
+    
+}
+.dv1 i{
+    font-size: 40px;
+   color: green;
+
+}
+.dv3 i{
+    font-size: 40px;
+   color: green;
+
+}
+.btn66{
+    border: 2px solid transparent;
+    height: 60px;
+    width: 180px;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: green;
+}
+.btn66:hover{
+    color: green;
+    background-color: black;
+}
+
+.col4{
+     display: flex;
+gap: 200px;
+    flex-direction: row;
+    padding-left: 150px;
+    margin-top: 30px;
+   
+
+}
+.i23{
+    background-color: lightgreen;
+}
+
+.bv{
+    border: 2px solid transparent;
+
+    margin-top: 70px;
+    border-radius: 50px;
+}
+.co3 h3{
+    color: green;
+    text-align: center;
+}
+.co3 h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.co3 p{
+   text-align: center;
+}
+
+.co3{
+    margin-top: 80px;
+}
+.hh{
+    font-size: 30px !important;
+}
+
+.hh:hover{
+    color: green;
+}
+
+.btn8{
+    border: 2px solid  transparent !important;
+   border-radius: 30px !important;
+   font-size: 20px !important;
+   width: 150px !important;
+   color: white;
+   background-color: green;
+}
+.cd{
+    padding-left: 20px;
+}
+
+.btn8:hover{
+    color: green;
+    background-color: black;
+}
