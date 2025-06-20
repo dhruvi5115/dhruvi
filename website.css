@@ -342,6 +342,7 @@ gap: 200px;
 
 .co3 p{
    text-align: center;
+   font-size: 20px;
 }
 
 .co3{
@@ -354,6 +355,9 @@ gap: 200px;
 .hh:hover{
     color: green;
 }
+.hhh{
+    margin-top: 30px !important;
+}
 
 .btn8{
     border: 2px solid  transparent !important;
@@ -362,12 +366,67 @@ gap: 200px;
    width: 150px !important;
    color: white;
    background-color: green;
+   margin-bottom: 40px;
 }
 .cd{
     padding-left: 20px;
+    margin-top: 30px;
+   
 }
 
 .btn8:hover{
     color: green;
     background-color: black;
+    
+}
+.cc{
+    margin-top: 100px !important;
+    background-color: whitesmoke;
+}
+.ccc{
+    margin-top: 50px !important;
+    background-color: whitesmoke;
+}
+.n1{
+    font-size: 30px;
+}
+.n1:hover{
+   color: green;
+}
+.n2{
+    margin-top: 30px;
+}
+
+.btn9{
+     border: 2px solid  transparent !important;
+   border-radius: 30px !important;
+   font-size: 20px !important;
+   width: 150px !important;
+   color: white;
+   background-color: green;
+   margin-bottom: 40px;
+}
+.btn9:hover{
+    color: green;
+    background-color: black;
+    
+}
+.n{
+    padding-left: 20px;
+    margin-top: 30px;
+}
+.cr h3{
+    color: green;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.cr h1{
+    font-size: 60PX;
+    text-align: center;
+}
+.cr p{
+   text-align: center;
+   margin-top: 30px;
+   font-size: 20px;
 }
