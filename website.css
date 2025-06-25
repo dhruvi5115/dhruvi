@@ -1,13 +1,15 @@
 .container-fluid i{
-    color: green;
+    color: #00D084;
    
 }
-.solid{
-    gap: 300px;
-}
+
 .dd:hover{
-    color: green !important;
+    color: #00D084 !important;
     
+}
+
+a{
+    color: black !important;
 }
 
 .fn{
@@ -18,26 +20,27 @@
       height: 40px;
       font-size: 20px !important;
       color: white !important;
-      background-color: green !important;
+      background-color: #00D084 !important;
       margin-top: 7px;
 }
 .btn:hover{
+    color: #00D084 !important;
      background-color: black !important;
 }
 .st{
     font-size: 50px !important;
-    color: green !important;
+    color: #00D084 !important;
 }
 
 .ad:hover{
-       background-color: green !important;
+       background-color: #00D084 !important;
 }
 .my:hover{
-    background-color: green !important;
+    background-color: #00D084 !important;
 }
 
 .we h3{
-    color: green;
+    color: #00D084;
 }
 
 .we h1{
@@ -46,19 +49,19 @@
 }
 
 .btn1{
-    color: green !important;
+    color: #00D084 !important;
     background-color: white !important;
    border: 2px solid transparent !important;
 }
 
 .btn1:hover{
     color: white !important;
-    background-color: green !important;
+    background-color: #00D084 !important;
 }
 
 .btn2{
     color: white;
-    background-color: green;
+    background-color: #00D084;
     font-size: 20px;
     border-radius: 25px;
     width: 160px;
@@ -96,7 +99,7 @@
 .icn1{
     font-size: 20px;
  background-color: white ;
-    color: green ;
+    color: #00D084 ;
  
     text-align: center;
      align-items: center;
@@ -118,7 +121,7 @@
 }
 .icn1:hover{
     color: white;
-    background-color: green;
+    background-color: #00D084;
 }
 
 .btn3 i{
@@ -132,12 +135,12 @@
     height: 60px;
     width: 60px;
     border-radius: 30px;
-    background-color: green;
+    background-color: #00D084;
     color: white;
 }
 .btn3:hover{
     background-color: lightgreen;
-    color: green;
+    color: #00D084;
 }
 .btn4 i{
     font-size: 20px;
@@ -149,13 +152,13 @@
     height: 60px;
     width: 60px;
     border-radius: 30px;
-    background-color: green;
+    background-color: #00D084;
     color: white;
    
 }
 .btn4:hover{
     background-color: lightgreen;
-    color: green;
+    color: #00D084;
 }
 
 .pp{
@@ -168,7 +171,7 @@
 }
 
 .ww h3{
-    color: green;
+    color: #00D084;
 }
 .ww h1{
     font-size: 30px;
@@ -196,7 +199,7 @@
   }
 }
 .btn5{
-    color: green !important;
+    color: #00D084!important;
     background-color: white !important;
    border: 2px solid transparent !important;
    border-radius: 30px !important;
@@ -207,12 +210,12 @@
 
 .btn5:hover{
     color: white !important;
-    background-color: green !important;
+    background-color: #00D084 !important;
 }
 
 .btn6{
     color: white;
-    background-color: green;
+    background-color: #00D084;
     font-size: 20px;
     border-radius: 25px;
     width: 160px;
@@ -246,7 +249,7 @@
      border-radius: 30px;
 }
 .col2 h3{
-    color: green;
+    color: #00D084;
 }
 .col2 h1{
     font-size: 50px;
@@ -261,18 +264,18 @@
     height: 50px;
     width: 150px;
     color: white;
-    background-color: green;
+    background-color: #00D084;
     border-radius: 30px;
    
 }
 .bb:hover{
-    color: green;
+    color: #00D084;
     background-color: black;
 }
 
 .dv i{
     font-size: 40px;
-   color: green;
+   color: #00D084;
 
 }
 .col3{
@@ -290,12 +293,12 @@ gap: 50px;
 }
 .dv1 i{
     font-size: 40px;
-   color: green;
+   color: #00D084;
 
 }
 .dv3 i{
     font-size: 40px;
-   color: green;
+   color: #00D084;
 
 }
 .btn66{
@@ -305,10 +308,10 @@ gap: 50px;
     border-radius: 30px;
     font-size: 20px;
     color: white;
-    background-color: green;
+    background-color: #00D084;
 }
 .btn66:hover{
-    color: green;
+    color: #00D084;
     background-color: black;
 }
 
@@ -332,11 +335,12 @@ gap: 200px;
     border-radius: 50px;
 }
 .co3 h3{
-    color: green;
+    font-size: 40px;
+    color: #00D084;
     text-align: center;
 }
 .co3 h1{
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
 }
 
@@ -353,7 +357,7 @@ gap: 200px;
 }
 
 .hh:hover{
-    color: green;
+    color: #00D084;
 }
 .hhh{
     margin-top: 30px !important;
@@ -365,7 +369,7 @@ gap: 200px;
    font-size: 20px !important;
    width: 150px !important;
    color: white;
-   background-color: green;
+   background-color: #00D084;
    margin-bottom: 40px;
 }
 .cd{
@@ -375,23 +379,31 @@ gap: 200px;
 }
 
 .btn8:hover{
-    color: green;
+    color: #00D084;
     background-color: black;
     
 }
+.ll{
+    background-color: whitesmoke !important;
+}
+.ll:hover{
+    box-shadow: 0px 0px 5px;
+}
 .cc{
     margin-top: 100px !important;
-    background-color: whitesmoke;
+   
+    
 }
+
 .ccc{
     margin-top: 50px !important;
-    background-color: whitesmoke;
+   
 }
 .n1{
     font-size: 30px;
 }
 .n1:hover{
-   color: green;
+   color: #00D084;
 }
 .n2{
     margin-top: 30px;
@@ -403,11 +415,11 @@ gap: 200px;
    font-size: 20px !important;
    width: 150px !important;
    color: white;
-   background-color: green;
+   background-color: #00D084;
    margin-bottom: 40px;
 }
 .btn9:hover{
-    color: green;
+    color: #00D084;
     background-color: black;
     
 }
@@ -416,7 +428,7 @@ gap: 200px;
     margin-top: 30px;
 }
 .cr h3{
-    color: green;
+    color: #00D084;
     text-align: center;
     margin-top: 100px;
     font-size: 30px;
@@ -429,4 +441,167 @@ gap: 200px;
    text-align: center;
    margin-top: 30px;
    font-size: 20px;
+}
+
+.li i{
+   
+   
+    font-size: 60px;
+  padding-left: 150px;
+  margin-top: 30px;
+  
+   
+ 
+}
+.li1 h5{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.li1 p{
+    font-size: 20px;
+}
+
+.btn10{
+    border: 2px solid transparent;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    background-color: #00D084;
+    color: white;
+    border-radius: 30px;
+    margin-bottom: 20px;
+ 
+}
+.btn10:hover{
+    color: #00D084;
+    background-color: black;
+}
+.d{
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+}
+
+.li1{
+   text-align: center;
+}
+.li2{
+  margin-top: 50px;
+  background-color: whitesmoke !important;
+  
+}
+.li2:hover{
+    border-color: #00D084;
+    
+}
+.su h3{
+    font-size: 40px;
+    color:  #00D084 ;
+    text-align: center;
+}
+
+.su h1{
+    font-size: 60px;
+    text-align: center;
+}
+.su p{
+    font-size: 20px;
+    text-align: center;
+}
+.db1{
+    border: 2px solid transparent;
+    height: 90px;
+    width: 400px;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 20px;
+    
+}
+.db1:hover{
+    cursor: pointer;
+    background-color: #00D084;
+}
+.db1 p{
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.DB{
+    border: 2px solid whitesmoke;
+    height: 600px;
+    width: 500px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    border-radius: 20px;
+    margin-top: 80px;
+   
+}
+.db0{
+    padding-left: 40px;
+}
+.db5 img{
+    margin-top: 70px;
+}
+.db6 h1{
+    font-size: 70px;
+}
+.db6 p{
+    font-size: 20px;
+}
+.btn0{
+    border: 2px solid transparent;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    background-color: #00D084;
+    color: white;
+    border-radius: 30px;
+   margin-top: 20px;
+ 
+}
+.btn0:hover{
+    color: #00D084;
+    background-color: black;
+}
+.DB11{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+}
+.AD h3{
+    font-size: 40px;
+    color: #00D084;
+    text-align: center;
+}
+.AD h1{
+    font-size: 60px;
+    text-align: center;
+}
+.AD p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.AD{
+    margin-top: 70px;
+}
+.AA h3{
+    font-size: 40px;
+    color: #00D084;
+    text-align: center;
+}
+.AA h1{
+    font-size: 60px;
+    text-align: center;
+}
+.AA p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.AA{
+    margin-top: 100px;
 }
