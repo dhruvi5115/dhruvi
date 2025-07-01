@@ -658,8 +658,46 @@ gap: 200px;
 .ma2{
     padding-left: 18px;
     align-items: center;
+  
 }
-.col{
-    margin-top: 100px !important;
-    height: 450px !important;
+
+.MA2 i{
+    color: black !important;
+}
+.btn99 i{
+    font-size: 25px;
+   align-items: center;
+   text-align: center;
+   color: white !important; 
+}
+.btn99{
+    border: 2px solid transparent;
+    display: flex;
+    align-items: center;
+    
+    background-color:  #00D084 ;
+    color: white;
+    border-radius: 10px;
+}
+.MA2 p{
+    font-size: 20px;
+}
+.btn991{
+    border: 2px solid transparent;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    background-color: black;
+    color:  white ;
+    border-radius: 10px;
+}
+.btn991 i{
+    font-size: 25px !important;
+     
+   color:  #00D084 !important; 
+}
+.ma2{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
 }
