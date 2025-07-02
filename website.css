@@ -633,9 +633,16 @@ gap: 200px;
     margin-top: 50px;
     border-radius: 30px;
 }
-.card1 i{
+.card1 h6 i{
     font-size: 30px !important;
     margin-bottom: 20px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    color: white;
+    background-color: #00D084;
     
 }
 .card1 h6{
@@ -658,11 +665,15 @@ gap: 200px;
 .ma2{
     padding-left: 18px;
     align-items: center;
+
   
 }
 
 .MA2 i{
     color: black !important;
+    padding-left: 20px;
+    color: white !important;
+    cursor: pointer;
 }
 .btn99 i{
     font-size: 25px;
@@ -674,22 +685,33 @@ gap: 200px;
     border: 2px solid transparent;
     display: flex;
     align-items: center;
-    
+    height: 80px;
+    width: 240px;
     background-color:  #00D084 ;
     color: white;
     border-radius: 10px;
+    font-size: 20px;
 }
 .MA2 p{
     font-size: 20px;
+    padding-left: 20px;
+    color: grey;
 }
+.MA2 h1{
+    color: white;
+    cursor: pointer;
+}
+
 .btn991{
     border: 2px solid transparent;
     display: flex;
     align-items: center;
-    width: 150px;
+    height: 80px;
+     width: 200px;
     background-color: black;
     color:  white ;
     border-radius: 10px;
+    font-size: 20px;
 }
 .btn991 i{
     font-size: 25px !important;
@@ -700,4 +722,58 @@ gap: 200px;
     display: flex;
     flex-direction: row;
     gap: 20px;
+}
+.MAIN12{
+    background-color: darkslategrey;
+    height: 400px;
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+.ma3 h1{
+    color: white;
+}
+.ma4 ul{
+    color: gray;
+    cursor: pointer;
+    font-size: 20px !important;
+
+}
+.ma4 ul li:hover{
+     color: #00D084;
+}
+.i6{
+    padding-right: 10px;
+}
+.ma5 h1{
+    color: white;
+}
+.ma5 h2{
+    font-size: 20px;
+    color: white;
+}
+.ma5 i{
+    padding-right: 20px !important;
+}
+.ma6 i{
+    
+    font-size: 30px;
+    margin-top: 20px;
+    color: white;
+   background-color: #00D084;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+   align-items: center !important;
+   text-align: center !important;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.ma6 i:hover{
+    background-color: black;
+}
+.d7 h1{
+    margin-bottom: 30px;
 }
